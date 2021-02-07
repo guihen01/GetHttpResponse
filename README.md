@@ -32,3 +32,4 @@ Package Will is distributed as a nuget package.
 # 
 
 https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture5.PNG
+![alt text](https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture5.PNG "Logo Title Text 1")
