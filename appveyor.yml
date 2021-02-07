@@ -26,6 +26,9 @@ branches:
     - master
     - main
     # Build worker image
+    
+before_build:
+  - nuget restore  
   
 # MSBuild settings
 build:
