@@ -3,8 +3,8 @@
 Send demand of authorization to a server , to get or post request via Http Rest API
 
  public static async Task<string> GetHttpResponse(string username, string password, string url)
- 
-![alt text] (https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture2.PNG "Logo Title Text 1")
+
+![alt text](https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture2.PNG "Logo Title Text 1")
 
 # Publication
 
