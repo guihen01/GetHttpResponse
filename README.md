@@ -21,7 +21,7 @@ Package Will is distributed as a nuget package.
 
 # How to use (Method 1)
 
-1. Dowwnload in github  the latest version of the dll : GetHttpResponse.dll
+1. Dowwnload in github  the latest version of the dll package : GetHttpResponse.dll at https://github.com/guihen01/GetHttpResponse/packages/611648
 2. Unpack (unzip) the latest version file : in the directory you want , on your computer.
 3. In your c# code use the method GetHttpResponse 
 
