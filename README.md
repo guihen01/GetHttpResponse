@@ -1,5 +1,6 @@
 # GetHttpResponse()
 [![GetHttpResponse on fuget.org](https://www.fuget.org/packages/GetHttpResponse/badge.svg)](https://www.fuget.org/packages/GetHttpResponse)
+[![Build status](https://ci.appveyor.com/api/projects/status/ysl2df2dro5wku0y?svg=true)](https://ci.appveyor.com/project/guihen01/gethttpresponse)
 
 Send demand of authorization to a server , to get or post request via Http Rest API
 
