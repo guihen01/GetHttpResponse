@@ -25,3 +25,9 @@ branches:
     - gh-page
     - master
     - main
+    # Build worker image
+  
+# MSBuild settings
+build:
+  project: Test-GetHttpResponse.csproj
+  verbosity: quiet    
