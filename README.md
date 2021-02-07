@@ -38,3 +38,6 @@ https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture5.PNG
 
 https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture7.PNG
 ![alt text](https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture7.PNG "Logo Title Text 1")
+
+https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture9.PNG
+![alt text](https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture9.PNG "Logo Title Text 1")
