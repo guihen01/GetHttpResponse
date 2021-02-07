@@ -23,9 +23,6 @@ Package Will is distributed as a nuget package.
 2. Unpack (unzip) the latest version file : in the directory you want , on your computer.
 3. In your c# code use the method GetHttpResponse 
 
-https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG
-![alt text](https://github.com/guihen01/GetAllIssuesPj/blob/main/Doc/Capture-How-To-Run.PNG "Logo Title Text 1")
-
 # How to use (Method 2)
 
 1. Download the nuget package at : https://www.nuget.org/packages/GetHttpResponse/
