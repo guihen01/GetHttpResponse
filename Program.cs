@@ -5,9 +5,9 @@ using GetHttp;
 
 namespace Test_GetHttpResponse
 {
-    class Program
+    public class Program
     {
-        public async Task Main(string[] args)
+        public static async Task Main(string[] args)
         {
             string username = "dupont01";
             string password = "admin1:";
