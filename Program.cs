@@ -11,7 +11,7 @@ using System.Runtime.Serialization;
 
 namespace JiraLib
 {
-    class Http
+    public static class Http
     {
         /// <summary>
         /// Send demand of authorization to server , to get or post request via Http Rest API
