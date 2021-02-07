@@ -25,3 +25,14 @@ branches:
     - gh-page
     - master
     - main
+
+# Build worker image
+image: Visual Studio 2019
+
+# Build platform
+platform: Any CPU
+    
+# MSBuild settings
+build:
+  project: Test-GetHttpResponse.csproj
+  verbosity: quiet    
