@@ -29,3 +29,6 @@ Package Will is distributed as a nuget package.
 2. USe Visual Studio or tool that use Nuget 
 2. in your c# code use the method GetHttpResponse
 
+# 
+
+https://github.com/guihen01/GetHttpResponse/blob/main/Doc/Capture5.PNG
